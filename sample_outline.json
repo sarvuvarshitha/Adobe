@@ -1,0 +1,30 @@
+{
+  "document_title": "Sample PDF Document",
+  "outline": [
+    {
+      "text": "1. Introduction",
+      "level": "H1",
+      "page": 1
+    },
+    {
+      "text": "1.1 Background",
+      "level": "H2",
+      "page": 2
+    },
+    {
+      "text": "1.2 Objectives",
+      "level": "H2",
+      "page": 3
+    },
+    {
+      "text": "2. Methodology",
+      "level": "H1",
+      "page": 4
+    },
+    {
+      "text": "3. Conclusion",
+      "level": "H1",
+      "page": 7
+    }
+  ]
+}
